@@ -6,3 +6,4 @@ _site
 .DS_Store
 .deploy_git
 public
+db.json
